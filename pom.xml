@@ -302,13 +302,15 @@
 		<dependency>
 			<groupId>org.bitcoinj</groupId>
 			<artifactId>bitcoinj-core</artifactId>
-			<version>0.13-SNAPSHOT</version>
+			<version>0.13.2</version>
 		</dependency>
+
 		<dependency>
 			<groupId>org.bitcoinj</groupId>
 			<artifactId>bitcoinj-tools</artifactId>
-			<version>0.13-SNAPSHOT</version>
+			<version>0.13.2</version>
 		</dependency>
+		
 		<dependency>
 			<groupId>com.google.guava</groupId>
 			<artifactId>guava</artifactId>
